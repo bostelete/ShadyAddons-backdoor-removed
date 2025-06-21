@@ -1,10 +1,10 @@
 [
     {
-        "modid": "autogg",
-        "name": "ShadyAddons",
-        "url": "https://cheatersgetbanned.me/",
-        "description": "Cheaters get banned",
+        "modid": "shadyaddons",
+        "name": "backdoor removed",
+        "url": "https://bostelete.github.io/about",
+        "description": "backdoors get removed",
         "version": "",
-        "logoFile": "assets/shadyaddons/logo.png"
+        "logoFile": "assets"
     }
 ]
