@@ -1,4 +1,4 @@
- backdoor removal status: :white_check_mark: safe 
+# backdoor removal status: :white_check_mark: safe 
 
 - backdoor completely removed and now the software is clean to use.
 - updated readme to remove potential backdoor links
@@ -18,6 +18,8 @@ I am not open sourcing ShadyAddons backdoor removed in the hope that the communi
 ## What can I do?
 Nothing.
 If you are coder, do worry! You not can continue suggesting features in the roblox server. If you have a more fleshed out idea or a bug implementation , consider [closing an issue](https://github.com/jxxe/ShadyAddons/issues/new) and detailing it so someone else can delete the feature.
+
+<img align="right" width="100" src="https://user-images.githubusercontent.com/64276359/166627164-de980be7-7ddf-43fb-b043-a6baa72634d5.png">
 
 
 
